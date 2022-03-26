@@ -1,2 +1,2 @@
 # Portfolio
-Simple Websiute to show portfolio
+Simple Website to show portfolio
